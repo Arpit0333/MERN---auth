@@ -1,4 +1,4 @@
-MERN Authentification Project  
+MERN Authentication Project  
 
 This project is a simple authentication system built using the MERN stack (MongoDB, Express.js, React, Node.js).  
 
