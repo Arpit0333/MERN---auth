@@ -1,0 +1,14 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment
+.env
+
+# Build / misc
+dist/
+build/
+coverage/
+.DS_Store
+.vscode/
