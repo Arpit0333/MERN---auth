@@ -5,7 +5,12 @@ This project is a simple authentication system built using the MERN stack (Mongo
 Here is the preview of project...
 
 
+ <video src=https://github.com/user-attachments/assets/a7e98590-1a80-4662-acd0-c77f78a1688c autoplay loop muted playsinline>
+</video>
+
+
 https://github.com/user-attachments/assets/a7e98590-1a80-4662-acd0-c77f78a1688c
+
 
 
 
