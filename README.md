@@ -2,6 +2,14 @@ MERN Authentification Project
 
 This project is a simple authentication system built using the MERN stack (MongoDB, Express.js, React, Node.js).  
 
+Here is the preview of project...
+
+
+https://github.com/user-attachments/assets/a7e98590-1a80-4662-acd0-c77f78a1688c
+
+
+
+
 Below are some of the key pages and features of the application:  
 
  Home Page  
